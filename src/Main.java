@@ -2,7 +2,7 @@ import execercicio1.*;
 import execercicio2.ExistenciaLetraA;
 public class Main {
     public static void main(String[] args) throws Exception {
-     //Fibonacci.fibonacci();
+     Fibonacci.fibonacci();
 
    String texto = "exemplo teste de contador de letras  'a'.";
 
